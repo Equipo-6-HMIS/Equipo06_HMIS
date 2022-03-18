@@ -1,32 +1,17 @@
-Progressus - Free business/corporate Bootstrap template
+Página web del Equipo 06 de HMIS
 =============
 
-Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 
+Esta web esta diseñeda con la template Progressus. Esta creada con Bootstrap, HTML y CSS.
 
 
-License
+Licencia
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
 
-Features
+Que hemos aprendido
 -----------
 
-* Easy to use, fat-free HTML and CSS code.
-* 7 ready-made templates for most common tasks
-* Responsive design
-* High overral quality, the template does worth to be premium.
-
-
-Bug tracker
------------
-
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Progressus/issues
-
-
-Credits
--------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* Photos used in template: **Unsplash** - http://unsplash.com
-* More free templates by Sergey: http://gettemplate.com
+* Manejar fork
+* Despliegue web
+* Creación de organizaciones
