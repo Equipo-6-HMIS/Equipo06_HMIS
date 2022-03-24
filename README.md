@@ -1,7 +1,7 @@
 Página web del Equipo 06 de HMIS
 =============
 
-Esta web esta diseñeda con la template Progressus. Esta creada con Bootstrap, HTML y CSS.
+Esta web está diseñeda con la template Progressus. Esta creada con Bootstrap, HTML y CSS.
 
 
 Licencia
